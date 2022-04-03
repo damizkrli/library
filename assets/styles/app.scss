@@ -1,7 +1,10 @@
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
+@tailwindcss base;
+@tailwindcss components;
+@tailwindcss utilities;
 
-body {
-    background-color: lightgray;
+#registration_form_email, #registration_form_plainPassword  {
+    width: 100%;
+    background-color: #E5E7EB;
+    padding: 10px;
+    border-radius: 5px;
 }
