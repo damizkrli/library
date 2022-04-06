@@ -4,193 +4,10 @@
     <list default="true" id="3fb2181c-7be4-4a49-b9db-562d0cb28bc5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/styles/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-load-config/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-load-config/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-load-config/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-load-config/src/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-load-config/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-load-config/src/options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-load-config/src/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-load-config/src/req.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/colors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/defaultConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/defaultConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/defaultTheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/defaultTheme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/cli-peer-dependencies.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/cli-peer-dependencies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/cli.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/corePluginList.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/corePluginList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/corePlugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/corePlugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/css/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/css/preflight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/featureFlags.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/featureFlags.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/collapseAdjacentRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/collapseDuplicateDeclarations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/defaultExtractor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/detectNesting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/evaluateTailwindFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/evaluateTailwindFunctions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/expandApplyAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/expandTailwindAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/generateRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/getModuleDependencies.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/getModuleDependencies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/normalizeTailwindDirectives.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/partitionApplyAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/resolveDefaultsAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/setupContextUtils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/setupTrackingContext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/sharedState.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/substituteScreenAtRules.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/lib/substituteScreenAtRules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/postcss-plugins/nesting/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/postcss-plugins/nesting/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/postcss-plugins/nesting/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/processTailwindFeatures.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/processTailwindFeatures.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/public/colors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/public/create-plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/public/default-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/public/default-theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/public/resolve-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/bigSign.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/bigSign.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/buildMediaQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/buildMediaQuery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/cloneDeep.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/cloneNodes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/cloneNodes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/color.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/configurePlugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/configurePlugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/createPlugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/createPlugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/createUtilityPlugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/createUtilityPlugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/dataTypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/escapeClassName.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/escapeClassName.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/escapeCommas.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/escapeCommas.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/flattenColorPalette.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/flattenColorPalette.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/formatVariantSelector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/getAllConfigs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/getAllConfigs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/hashConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/hashConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/isKeyframeRule.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/isKeyframeRule.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/isPlainObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/isPlainObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/isValidArbitraryValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/log.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/log.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/nameClass.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/nameClass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/negateValue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/negateValue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/normalizeConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/normalizeScreens.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/parseAnimationValue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/parseAnimationValue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/parseBoxShadowValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/parseDependency.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/parseDependency.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/parseObjectStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/parseObjectStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/pluginUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/pluginUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/prefixSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/prefixSelector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/resolveConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/resolveConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/resolveConfigPath.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/resolveConfigPath.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/responsive.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/responsive.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/tap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/toColorValue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/toColorValue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/toPath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/transformThemeValue.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/transformThemeValue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/withAlphaVariable.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/lib/util/withAlphaVariable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/nesting/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/nesting/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/.bin/autoprefixer" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/.bin/autoprefixer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/index.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/objectifier.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/process-result.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-js/sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-nested/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-nested/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-nested/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-nested/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/node_modules/postcss-nested/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/peers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/peers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/resolveConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/resolveConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/scripts/create-plugin-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/scripts/create-plugin-list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/cli-peer-dependencies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/cli.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/corePluginList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/corePlugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/css/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/css/preflight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/featureFlags.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/collapseAdjacentRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/collapseDuplicateDeclarations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/defaultExtractor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/detectNesting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/evaluateTailwindFunctions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/expandApplyAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/expandTailwindAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/generateRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/getModuleDependencies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/normalizeTailwindDirectives.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/partitionApplyAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/resolveDefaultsAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/setupContextUtils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/setupTrackingContext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/sharedState.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/lib/substituteScreenAtRules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/postcss-plugins/nesting/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/postcss-plugins/nesting/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/postcss-plugins/nesting/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/processTailwindFeatures.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/public/colors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/public/create-plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/public/default-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/public/default-theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/public/resolve-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/bigSign.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/buildMediaQuery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/cloneDeep.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/cloneNodes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/color.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/configurePlugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/createPlugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/createUtilityPlugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/dataTypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/escapeClassName.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/escapeCommas.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/flattenColorPalette.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/formatVariantSelector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/getAllConfigs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/hashConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/isKeyframeRule.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/isPlainObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/isValidArbitraryValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/nameClass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/negateValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/normalizeConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/normalizeScreens.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/parseAnimationValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/parseBoxShadowValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/parseDependency.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/parseObjectStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/pluginUtils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/prefixSelector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/resolveConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/resolveConfigPath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/responsive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/tap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/toColorValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/toPath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/transformThemeValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/src/util/withAlphaVariable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/stubs/defaultConfig.stub.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/stubs/defaultConfig.stub.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/tailwindcss/stubs/simpleConfig.stub.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tailwindcss/stubs/simpleConfig.stub.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/build/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/registration/register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/register.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Admin/DashboardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Admin/DashboardController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,7 +183,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../curriculum_vitae" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -387,6 +204,7 @@
       <updated>1648911575998</updated>
       <workItem from="1648911577125" duration="1388000" />
       <workItem from="1648981457050" duration="614000" />
+      <workItem from="1649270793544" duration="2047000" />
     </task>
     <servers />
   </component>
