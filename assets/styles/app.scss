@@ -2,6 +2,10 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
+body {
+    background-color: grey;
+}
+
 #registration_form_email, #registration_form_plainPassword  {
     width: 100%;
     background-color: #E5E7EB;
